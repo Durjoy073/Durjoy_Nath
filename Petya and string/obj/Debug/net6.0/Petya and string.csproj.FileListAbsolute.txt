@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\bin\Debug\net6.0\Petya and string.exe
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\bin\Debug\net6.0\Petya and string.deps.json
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\bin\Debug\net6.0\Petya and string.runtimeconfig.json
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\bin\Debug\net6.0\Petya and string.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\bin\Debug\net6.0\Petya and string.pdb
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.AssemblyInfo.cs
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\refint\Petya and string.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.pdb
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\Petya and string.genruntimeconfig.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Petya and string\obj\Debug\net6.0\ref\Petya and string.dll
