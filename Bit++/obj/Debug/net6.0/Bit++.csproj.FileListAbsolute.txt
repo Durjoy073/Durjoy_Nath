@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\bin\Debug\net6.0\Bit++.exe
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\bin\Debug\net6.0\Bit++.deps.json
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\bin\Debug\net6.0\Bit++.runtimeconfig.json
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\bin\Debug\net6.0\Bit++.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\bin\Debug\net6.0\Bit++.pdb
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.AssemblyInfo.cs
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\refint\Bit++.dll
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.pdb
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\Bit++.genruntimeconfig.cache
+C:\Users\Dell\Documents\C# Course\Csharp-Course\Codeforces\Bit++\obj\Debug\net6.0\ref\Bit++.dll
