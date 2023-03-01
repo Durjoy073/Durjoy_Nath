@@ -8,16 +8,16 @@ namespace Task3
 {
     public static class RandomNumberGenerator
     {
-        private int _seed;
-        private Random _rand;
+        private static int _seed;
+        private static Random _rand;
 
-        public RandomNumberGenerator()
+        static RandomNumberGenerator()
         {
             _seed = DateTime.Now.Microsecond;
             _rand = new Random(_seed);
         }
 
-        public int Generate()
+        public static  int Generate()
         {
             return _rand.Next();
         }

@@ -6,27 +6,15 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-   internal public class Machine
+    public class Machine
     {
         string Time = Console.ReadLine();
-        public void Start(int time)
+        public virtual void Start(string time)
         {
             Console.WriteLine("Machine Started");
             this.Time = time;
         }
     }
 
-    public class powerplant : Machine
-    {
-        public void poweronoff()
-        {
-            Console.WriteLine("The Power of the Powerplant is activated");
-        }
 
-      public override void start(string time)
-        {
-            time += time;
-        }
-
-    }
 }

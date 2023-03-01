@@ -3,21 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Task2
 {
-    internal class Student : university
+    abstract class university
     {
         public string Name { get; set; }
-        public DateTime DateOfBirth { get; set; }
-
-        public override string GenerateId()
-        {
-            return "S" + Name;
-        }
-
+        public abstract string GenerateId();
+        
     }
 }
-
-
-
