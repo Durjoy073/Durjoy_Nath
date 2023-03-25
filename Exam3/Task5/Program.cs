@@ -3,5 +3,5 @@ Console.WriteLine("Hello, World!");
 
 Params p= new Params();
 
-string s = p.Print("a", "b");
+string s = p.Print{"durjoy"};
 
