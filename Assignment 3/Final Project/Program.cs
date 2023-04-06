@@ -8,6 +8,30 @@ n =Convert.ToInt32(Console.ReadLine());
 
 if (n == 1)
 {
+    Console.WriteLine("Please Select task:");
+    Console.WriteLine(" 1)Create file\n 2)Edit file\n 3)Delete file\n 4)Exit");
+
+    m = Convert.ToInt32(Console.ReadLine());
+
+    if (m == 1)
+    {
+        Databaseoperation operation = new Databaseoperation();
+        operation.Createfile();
+    }
+    else if (m == 2)
+    {
+        Databaseoperation operation = new Databaseoperation();
+        operation.editData();
+    }
+    else if (m == 3)
+    {
+
+        Databaseoperation operation = new Databaseoperation();
+        operation.deleteFile();
+    }
+
+    else
+        Console.WriteLine("Error Input.Try AGain");
 
 }
 else if (n == 2)
