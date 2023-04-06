@@ -46,12 +46,10 @@ namespace Final_Project
         }
 
 
-        public void editfile()
+        public void Editfile()
         {
             Console.Write("Enter file name: ");
              fname = Console.ReadLine();
-
-
 
             if (fname == null)
             {
@@ -70,13 +68,10 @@ namespace Final_Project
             }
         }
 
-        public void DeleteFile()
+        public void Deletefile()
         {
             Console.Write("Enter file name: ");
             fname = Console.ReadLine();
-
-               
-
 
                 string path = Path.Combine("UserFiles", fname);
                 if (File.Exists(path))
